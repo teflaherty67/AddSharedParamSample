@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>AddSharedParamSample - Command 1</Text>
+    <Description>Some description for AddSharedParamSample</Description>
+    <Assembly>AddSharedParamSample.dll</Assembly>
+    <FullClassName>AddSharedParamSample.Command1</FullClassName>
+    <ClientId>7f6427c6-b7fb-4b75-a86a-85ce4366890f</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>AddSharedParamSample - Command 2</Text>
+    <Description>Some description for AddSharedParamSample</Description>
+    <Assembly>AddSharedParamSample.dll</Assembly>
+    <FullClassName>AddSharedParamSample.Command2</FullClassName>
+    <ClientId>83482b03-11c6-4150-88c4-270d1597e21c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>AddSharedParamSample</Name>
+    <Assembly>AddSharedParamSample.dll</Assembly>
+    <FullClassName>AddSharedParamSample.App</FullClassName>
+    <ClientId>a6684376-3912-4d3d-8a46-48124d2bff87</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
